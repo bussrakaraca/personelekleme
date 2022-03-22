@@ -1,0 +1,7 @@
+﻿Ayşe|Şimşek|18.03.1998|Kuvey Türk AR-GE|KADIN|BEKAR|1800|İş,0332 681 4858+Gsm,0332 562 3565|ayse@hotmail.com|Selçuklu/KONYA
+DenemeName|DenemeSurname|1.06.2000|DenemeMeslek|ERKEK|EVLİ|3500|İş,0332 658 4253+Gsm,0332 689 5421|deneme@mail.com|denemeAdres
+ad|soyad|11.05.2019|meslek|ERKEK|EVLİ|2000|İş,111+Gsm,222|email@email.com|adres
+name|surname|9.05.1949|do|KADIN|BEKAR|5000|İş,11111+Gsm,22222|email@email.com|adresses
+adff|swff|12.06.2019|sfff|ERKEK|BEKAR|5000|İş,saff+Gsm,rru5|kytjr|myrktk
+jh|işki|12.06.2019|oıjoı|KADIN|BEKAR|5000|İş,jkkkk+Gsm,nnnj|hhhh|hlşgftr
+Büşra|Karaca|31.05.1997|Bilg. Müh|KADIN|BEKAR|1000|İş,+Gsm,5469488960|bus@gmail.com|adres yok

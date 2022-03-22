@@ -1,0 +1,1 @@
+dosya yolunu kendi bilgisayarınızdaki yola göre değiştiriniz.
